@@ -1,0 +1,5 @@
+HypeLLM
+
+This project is built on AirLLM (https://github.com/lyogavin/airllm) by Gavin Li, licensed under
+the Apache License, Version 2.0. HypeLLM imports AirLLM at run time, and the compression helpers
+in hypellm/engine.py are adapted from AirLLM's airllm/utils.py.

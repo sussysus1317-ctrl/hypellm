@@ -1,0 +1,5 @@
+# Install torch first, with the CUDA build that matches your driver (see README).
+airllm @ git+https://github.com/lyogavin/airllm.git#subdirectory=air_llm
+transformers
+bitsandbytes
+psutil
